@@ -17,6 +17,6 @@ fun main(){
     println("My first name starts with $iAmALetter")
 
     val decimal = 3.64f
-    println(decimal)
+    println(decimal)//This is a decimal
 
 }
