@@ -19,4 +19,8 @@ fun main(){
     val decimal = 3.64f
     println(decimal)//This is a decimal
 
+//    In kotlin we don't need to explicitly define a data type during variable declaration
+    val iLovePizza = true
+    println("It is $iLovePizza that I love Pizza ")
+
 }
