@@ -8,7 +8,7 @@ fun main(){
         println("$x is an odd number")
 
     val y =3+8
-     if (y==4){
+     if (y == 4){
          print("y is 4")
      }
     else if(y==5){
